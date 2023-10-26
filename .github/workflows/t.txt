@@ -1,5 +1,3 @@
-<?php
-
 
 $userAgent = $_SERVER['HTTP_USER_AGENT'];
 
@@ -487,7 +485,7 @@ function getDirectoryURL($directory) {
     
     return "$protocol://$host/$directory";
 }
-?>
+
 </div>
 <span class="backlink">
     <a href="https://roottube.blogspot.com/">Hacker Blog</a>,
